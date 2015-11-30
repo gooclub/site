@@ -76,8 +76,8 @@ header #logo a {
 	text-decoration: none;
 	display: block;
 	width: 218px;	/*幅*/
-	height: 150px;	/*高さ。下のpadding-topとバランスを取る。*/
-	padding-top: 50px;	/*上にあける余白。上のheightとバランスを取る。*/
+	height: 190px;	/*高さ。下のpadding-topとバランスを取る。*/
+	padding-top: 10px;	/*上にあける余白。上のheightとバランスを取る。*/
 	position: absolute;
 	left: 50px;	/*ヘッダーブロックに対して左から50pxの位置に配置*/
 	top: 0px;	/*ヘッダーブロックに対して上から0pxの位置に配置*/
